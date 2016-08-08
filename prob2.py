@@ -1,3 +1,5 @@
+#Define a function max_of_three() that takes three numbers as arguments and returns the largest of them.
+
 def max_of_three(n1,n2,n3):
     try:
         if(n1 > n2 and n1 > n3):
